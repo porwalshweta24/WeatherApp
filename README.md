@@ -5,9 +5,9 @@ A mobile app that helps with searching current weather for a given city.
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
 <p align="center">
-  <img width="25%" src="https://github.com/porwalshweta24/OpenWeatherMap/raw/main/screenshots/search_cached.png?raw=true">
-  <img width="25%" src="https://github.com/porwalshweta24/OpenWeatherMap/raw/main/screenshots/search_result.png?raw=true">
-  <img width="25%" src="https://github.com/porwalshweta24/OpenWeatherMap/raw/main/screenshots/manage_favourite.png?raw=true">
+  <img width="25%" src="https://github.com/porwalshweta24/WeatherApp/blob/master/screenshots/manage_favourite.png?raw=true">
+  <img width="25%" src="https://github.com/porwalshweta24/WeatherApp/blob/master/screenshots/search_result.png?raw=true">
+  <img width="25%" src="https://github.com/porwalshweta24/WeatherApp/blob/master/screenshots/manage_favourite.png?raw=true">
 </p>
 
 ## Overview
